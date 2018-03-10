@@ -30,7 +30,6 @@ $ npm start
 ## ⚒️ Built With
 
 * [Vorpal](https://github.com/dthree/vorpal) - Interactive node CLI
-* [Discovery Swarm](https://github.com/mafintosh/discovery-swarm) - Peer to peer communication
 
 ## 🎫 License
 
