@@ -3,7 +3,7 @@
     Decentalize CLI
 </h1>
 
-## 📦 Installation
+## Installation
 
 To install this application, you'll need [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
@@ -27,10 +27,6 @@ $ npm start
 # Install this module globally on system
 $ npm install -g
 ```
-
-## ⚒️ Built With
-
-* [Vorpal](https://github.com/dthree/vorpal) - Interactive node CLI
 
 ## 🎫 License
 
