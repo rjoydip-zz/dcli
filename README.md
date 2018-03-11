@@ -7,7 +7,7 @@
 
 To install this application, you'll need [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-#### Source
+## Source
 
 You'll need [Git](https://git-scm.com) to run the project from source. From your command line:
 
@@ -23,6 +23,9 @@ $ npm install
 
 # Run the app
 $ npm start
+
+# Install this module globally on system
+$ npm install -g
 ```
 
 ## ⚒️ Built With

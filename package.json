@@ -10,6 +10,7 @@
   "bin": {
     "dcli": "./cli.js"
   },
+  "delimiter": "dcli",
   "keywords": [],
   "author": "Joydip Roy (Rjoydip)",
   "repository": {
